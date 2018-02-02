@@ -9,10 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.1",
-    "lifx-http-api": "^1.0.3"
-  },
-  "devDependencies": {
+    "lifx-http-api": "^1.0.3",
     "dotenv": "^5.0.0"
   }
 }
