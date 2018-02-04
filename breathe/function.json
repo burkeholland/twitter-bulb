@@ -2,7 +2,7 @@
  "disabled": false,
  "bindings": [
   {
-   "authLevel": "anonymous",
+   "authLevel": "function",
    "type": "httpTrigger",
    "direction": "in",
    "name": "req"
@@ -16,5 +16,5 @@
  "_originalEntryPoint": false,
  "_originalScriptFile": "index.js",
  "scriptFile": "../.funcpack/index.js",
- "entryPoint": "control$dashbulb"
+ "entryPoint": "breathe"
 }
